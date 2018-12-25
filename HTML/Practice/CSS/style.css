@@ -1,0 +1,50 @@
+#page-title {
+    
+    text-align: center;
+    
+    
+}
+        
+#picture-container{
+    border: 1px solid black;
+    width: 250px;
+    height: 175px;
+    margin: 0 auto
+    
+}
+#image{
+    
+    width: 100%;
+   
+}
+#picture-css{
+   width: 900px;
+    
+height: 300px;
+    margin: 0 auto;
+    background-image: url(../images/image1.jpg);
+}
+
+
+#hovers {
+    width: 200px;
+    height:200px;
+    border: 3px solid blue;
+    margin: 0 auto;
+    background-image:  url(../images/image1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    opacity: 0.5;
+    
+}
+#hovers h2 {
+    text-align: center;
+}
+
+#hovers:hover{
+    
+    background-color: red;
+    border: 3px solid black;
+    color: darkturquoise;
+    opacity: 1;
+}

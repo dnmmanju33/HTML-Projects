@@ -1,0 +1,19 @@
+div {
+
+    border:4px solid red;
+    background: blue;
+    color: white;
+    width: 1000px;
+    border-radius: 24px;
+    margin: 25px;
+    padding: 120px;
+    
+    
+    
+}
+
+div ul{
+    
+    list-style-type:none;
+    list-style-type:square;
+}
