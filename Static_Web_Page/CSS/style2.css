@@ -1,0 +1,35 @@
+/**********p{
+        
+        
+color:red;font-size:30px;
+    font-weight: 100;
+        
+        }
+*********/
+
+
+body{
+    background: green;
+}
+
+
+p,h1{
+    color:red;
+}
+
+h2{
+    
+    color: blue;
+}
+div p{
+    color:aqua;
+}
+
+#first-para {
+    color:yellow;
+}
+
+
+.first-para{
+    color:greenyellow;
+}
